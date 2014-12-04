@@ -1,0 +1,31 @@
+DataSet:	data3
+Mutation Rate:	0.30000000000000004
+Training Set Percent 	80.0%
+Generation: 	3000
+RuleSet Size:	15
+Population Size:	200
+Competitor Size:	2
+Creep Rate:	0.03
+Crossover Rate:	0.9
+
+Run:	 Initial Fitness:	 Final Fitness: 	
+0	.25	79.25
+1	.25	70.75
+2	.00	68.50
+3	.75	70.00
+4	.00	77.50
+5	1.50	79.00
+6	.25	74.00
+7	.75	68.25
+8	2.25	79.25
+9	.25	82.00
+10	.00	79.25
+11	2.25	70.75
+12	.25	67.50
+13	5.00	73.00
+14	1.25	68.50
+15	.00	75.00
+16	.25	70.75
+17	2.50	68.75
+18	2.00	73.50
+19	.00	69.00
